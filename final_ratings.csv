@@ -1,0 +1,1353 @@
+name,tvId,userId,rating
+Rick and Morty,60625,106,9.0
+Rick and Morty,60625,1576,10.0
+Grey's Anatomy,1416,3,1.0
+Grey's Anatomy,1416,1576,1.0
+The Simpsons,456,1561,10.0
+The Simpsons,456,1576,5.0
+Invincible,95557,649,10.0
+Loki,84958,11,10.0
+Loki,84958,923,8.0
+Loki,84958,727,9.0
+Loki,84958,709,6.0
+Loki,84958,728,10.0
+Doctor Who,57243,24,10.0
+Doctor Who,57243,1002,7.0
+Supernatural,1622,23,7.0
+Doctor Who,57243,24,10.0
+Doctor Who,57243,1002,7.0
+Wednesday,119051,28,1.0
+Wednesday,119051,29,9.0
+Wednesday,119051,30,4.0
+Wednesday,119051,1259,5.0
+Midsomer Murders,764,1594,7.0
+Friends,1668,1542,8.0
+Castle,1419,1243,8.0
+Yellowstone,73586,37,3.0
+House,1408,453,7.0
+House,1408,1243,8.0
+The Good Doctor,71712,40,10.0
+The Good Doctor,71712,42,10.0
+The Good Doctor,71712,1436,4.0
+The Good Doctor,71712,122,3.0
+Star Trek,253,45,7.0
+Star Trek,253,1542,8.0
+Star Trek,253,1576,10.0
+Lucifer,63174,1312,2.0
+Lucifer,63174,462,10.0
+The Flash,60735,55,6.0
+The Flash,60735,696,6.0
+The Rookie,79744,57,10.0
+The Blacklist,46952,613,9.0
+The Blacklist,46952,59,10.0
+The Sopranos,1398,1576,10.0
+Columbo,873,1576,10.0
+NCIS,4614,1352,1.0
+The Mentalist,5920,1243,9.0
+Vikings,44217,270,10.0
+Peaky Blinders,60574,1464,10.0
+Peaky Blinders,60574,67,7.0
+Peaky Blinders,60574,68,1.0
+The Vampire Diaries,18165,1436,4.0
+The Vampire Diaries,18165,1277,5.0
+SPY x FAMILY,120089,71,1.0
+SPY x FAMILY,120089,1205,10.0
+SPY x FAMILY,120089,904,10.0
+SPY x FAMILY,120089,74,9.0
+The Walking Dead,1402,75,6.0
+The Walking Dead,1402,76,10.0
+The Walking Dead,1402,1513,1.0
+The Walking Dead,1402,78,10.0
+The Walking Dead,1402,80,10.0
+The Walking Dead,1402,1436,4.0
+The Walking Dead,1402,1567,10.0
+The Walking Dead,1402,1569,10.0
+American Horror Story,1413,1541,8.0
+American Horror Story,1413,1541,8.0
+Fear the Walking Dead,62286,1436,6.0
+Shameless,34307,89,10.0
+Squid Game,93405,172,7.0
+Malcolm in the Middle,2004,1561,9.0
+Breaking Bad,1396,93,10.0
+Breaking Bad,1396,1436,10.0
+Breaking Bad,1396,95,9.0
+Breaking Bad,1396,1352,3.0
+Chucky,90462,97,8.0
+Futurama,615,106,8.0
+Futurama,615,108,10.0
+Futurama,615,1595,4.0
+Gen V,205715,1595,1.0
+Gen V,205715,112,10.0
+Gen V,205715,1574,6.0
+Futurama,615,106,8.0
+Futurama,615,108,10.0
+Futurama,615,1595,4.0
+Gen V,205715,1595,1.0
+Gen V,205715,112,10.0
+Gen V,205715,1574,6.0
+Stranger Things,66732,1436,9.0
+Stranger Things,66732,923,8.0
+Stranger Things,66732,1595,8.0
+Stranger Things,66732,1576,10.0
+The Boys,76479,1286,6.0
+The Boys,76479,120,8.0
+The Boys,76479,121,9.0
+The Boys,76479,122,6.0
+The Boys,76479,1576,8.0
+Young Sheldon,71728,1352,7.0
+Two and a Half Men,2691,453,6.0
+Richard Osman's House of Games,103960,1472,5.0
+Richard Osman's House of Games,103960,1472,5.0
+Richard Osman's House of Games,103960,1472,5.0
+Star Trek: Voyager,1855,129,8.0
+Star Trek: Voyager,1855,1576,7.0
+Star Trek: Voyager,1855,1243,10.0
+Seinfeld,1400,132,10.0
+South Park,2190,1576,10.0
+Smallville,4604,850,6.0
+Arrow,1412,1542,10.0
+Arrow,1412,1456,7.0
+Arrow,1412,1576,1.0
+Buffy the Vampire Slayer,95,312,9.0
+Buffy the Vampire Slayer,95,1576,10.0
+Sons of Anarchy,1409,1436,10.0
+Sons of Anarchy,1409,1569,1.0
+Monk,1695,145,8.0
+The Walking Dead: Daryl Dixon,211684,1595,4.0
+9-1-1,75219,802,7.0
+9-1-1,75219,1576,1.0
+9-1-1,75219,190,10.0
+9-1-1,75219,1436,8.0
+Dexter,1405,1540,10.0
+Dexter,1405,153,8.0
+Dexter,1405,424,10.0
+Euphoria,85552,740,8.0
+Euphoria,85552,490,10.0
+Cheers,141,1542,8.0
+Stargate SG-1,4629,1576,10.0
+Psych,1447,160,10.0
+Psych,1447,1576,10.0
+M*A*S*H,918,1542,9.0
+M*A*S*H,918,1352,4.0
+The Railway Men - The Untold Story of Bhopal 1984,213895,1436,10.0
+The Witcher,71912,1013,8.0
+The Witcher,71912,840,7.0
+The Witcher,71912,167,8.0
+The Witcher,71912,1436,1.0
+The Witcher,71912,1542,9.0
+The Witcher,71912,172,7.0
+The Witcher,71912,172,7.0
+The Witcher,71912,173,6.0
+The Witcher,71912,1077,6.0
+The Witcher,71912,730,2.0
+The Witcher,71912,1436,1.0
+The Witcher,71912,907,4.0
+Bleach,30984,1286,7.0
+House of the Dragon,94997,1077,5.0
+24,1973,1243,8.0
+Marvel's Agents of S.H.I.E.L.D.,1403,1472,7.0
+Marvel's Agents of S.H.I.E.L.D.,1403,1126,9.0
+Lost,4607,184,10.0
+Spartacus,46296,1542,8.0
+Star Trek: Deep Space Nine,580,1576,7.0
+From,124364,1331,7.0
+From,124364,188,10.0
+From,124364,190,10.0
+Fringe,1705,1243,7.0
+Frasier,3452,1542,8.0
+Criminal Code,235924,1595,8.0
+Hawaii Five-0,32798,1542,9.0
+Elite,76669,1436,1.0
+Gilmore Girls,4586,1594,8.0
+Gilmore Girls,4586,1243,8.0
+"Magnum, P.I.",734,1542,9.0
+"Magnum, P.I.",734,1576,10.0
+Sex Education,81356,718,8.0
+Sex Education,81356,1576,1.0
+Outlander,56570,1456,5.0
+Outlander,56570,1436,10.0
+Outlander,56570,1456,5.0
+Outlander,56570,1436,10.0
+Bosch,60585,1594,9.0
+Orange Is the New Black,1424,1259,10.0
+Cobra Kai,77169,278,9.0
+Cobra Kai,77169,213,4.0
+Cobra Kai,77169,1542,9.0
+Cobra Kai,77169,1595,5.0
+Cobra Kai,77169,1576,10.0
+Grimm,39351,1576,10.0
+The 100,48866,219,8.0
+The 100,48866,907,4.0
+Riverdale,69050,1246,10.0
+Riverdale,69050,222,5.0
+Riverdale,69050,778,4.0
+Six Feet Under,1274,1456,4.0
+The Continental: From the World of John Wick,72710,1595,4.0
+The Continental: From the World of John Wick,72710,227,8.0
+Scorpion,60797,1542,8.0
+Murdoch Mysteries,12786,1595,6.0
+Murdoch Mysteries,12786,230,6.0
+Supergirl,62688,231,6.0
+Battlestar Galactica,1972,1513,9.0
+Battlestar Galactica,1972,361,10.0
+Battlestar Galactica,1972,1576,10.0
+Battlestar Galactica,1972,1243,6.0
+Batman: The Animated Series,2098,1576,10.0
+The Mandalorian,82856,1542,10.0
+The Mandalorian,82856,923,9.0
+The Last of Us,100088,242,1.0
+The Last of Us,100088,923,8.0
+The Last of Us,100088,412,9.0
+The Last of Us,100088,1595,1.0
+The Last of Us,100088,1576,1.0
+The Last of Us,100088,247,5.0
+The Last of Us,100088,248,8.0
+The Last of Us,100088,249,8.0
+The Last of Us,100088,250,9.0
+The Last of Us,100088,728,10.0
+The Last of Us,100088,1259,6.0
+The Last of Us,100088,1464,8.0
+The Last of Us,100088,254,8.0
+The Last of Us,100088,1436,7.0
+The Wire,1438,1168,10.0
+Justified,1436,1576,10.0
+Titans,75450,1576,1.0
+Titans,75450,1456,5.0
+Person of Interest,1411,866,10.0
+Person of Interest,1411,1243,7.0
+Bob's Burgers,32726,264,10.0
+Brooklyn Nine-Nine,48891,1569,2.0
+The Last Kingdom,63333,267,9.0
+The Last Kingdom,63333,1436,10.0
+The Last Kingdom,63333,269,8.0
+The Last Kingdom,63333,1217,2.0
+"Murder, She Wrote",484,1542,9.0
+The Good Wife,1435,1594,8.0
+The Wheel of Time,71914,274,4.0
+Top Gear,45,1542,9.0
+Top Gear,45,1002,9.0
+The Late Show with Stephen Colbert,63770,277,2.0
+The Big Bang Theory,1418,278,6.0
+The Big Bang Theory,1418,1594,10.0
+Spider-Man,888,1576,10.0
+The West Wing,688,1168,8.0
+The West Wing,688,1594,10.0
+The West Wing,688,285,1.0
+The Owl House,92685,286,7.0
+Once Upon a Time,39272,1576,2.0
+Special Ops: Lioness,113962,1595,2.0
+The Lord of the Rings: The Rings of Power,84773,290,1.0
+The Lord of the Rings: The Rings of Power,84773,1595,3.0
+The Lord of the Rings: The Rings of Power,84773,413,10.0
+The Lord of the Rings: The Rings of Power,84773,758,1.0
+The Lord of the Rings: The Rings of Power,84773,1436,1.0
+The Lord of the Rings: The Rings of Power,84773,297,1.0
+The Lord of the Rings: The Rings of Power,84773,298,1.0
+The Lord of the Rings: The Rings of Power,84773,1576,1.0
+The Lord of the Rings: The Rings of Power,84773,1352,2.0
+The Lord of the Rings: The Rings of Power,84773,301,7.0
+Westworld,63247,302,3.0
+Westworld,63247,1436,4.0
+Westworld,63247,1542,8.0
+Westworld,63247,1576,1.0
+Westworld,63247,1243,6.0
+Glee,1417,312,9.0
+This Is Us,67136,1522,7.0
+The Walking Dead: Dead City,194583,1595,5.0
+Dora the Explorer,79,966,4.0
+New Girl,1420,1464,9.0
+New Girl,1420,1576,10.0
+iCarly,5371,320,10.0
+iCarly,5371,1253,8.0
+Knight Rider,2384,1576,10.0
+What We Do in the Shadows,83631,1595,6.0
+Tulsa King,153312,1595,6.0
+Gintama,57041,1524,10.0
+DC's Legends of Tomorrow,62643,326,10.0
+DC's Legends of Tomorrow,62643,1456,8.0
+Weeds,186,328,1.0
+Hey Arnold!,537,1290,8.0
+See,80752,696,9.0
+Everybody Loves Raymond,2140,1542,8.0
+Twin Peaks,1920,892,10.0
+Cold Case,2171,1352,8.0
+Invasion,127235,477,8.0
+Invasion,127235,1595,3.0
+Invasion,127235,338,3.0
+Invasion,127235,630,1.0
+Tom Clancy's Jack Ryan,73375,340,6.0
+Tom Clancy's Jack Ryan,73375,1576,1.0
+Magnum P.I.,79593,1542,7.0
+Magnum P.I.,79593,1576,1.0
+The Expanse,63639,1286,4.0
+The Expanse,63639,1436,1.0
+The Expanse,63639,347,10.0
+Avatar: The Last Airbender,246,348,10.0
+White Collar,21510,928,10.0
+White Collar,21510,1243,9.0
+Manifest,79696,1286,5.0
+Ted Lasso,97546,352,9.0
+Ted Lasso,97546,424,9.0
+Ted Lasso,97546,354,10.0
+Secret Invasion,114472,1595,5.0
+Perry Mason,4177,1352,8.0
+Young Justice,33217,1312,1.0
+The Fall of the House of Usher,157065,1595,4.0
+House of Cards,1425,361,10.0
+House of Cards,1425,740,6.0
+House of Cards,1425,364,1.0
+The Handmaid's Tale,69478,1595,8.0
+The Handmaid's Tale,69478,1576,1.0
+Banshee,41727,370,10.0
+The Resident,74016,1436,10.0
+Beacon 23,112388,1595,6.0
+Chainsaw Man,114410,374,9.0
+You,78191,938,8.0
+You,78191,1436,9.0
+You,78191,1436,9.0
+You,78191,378,2.0
+You,78191,379,8.0
+You,78191,381,10.0
+You,78191,382,7.0
+Saturday Night Live,1667,1576,1.0
+Angel,2426,1576,10.0
+The Sinner,39852,385,8.0
+Star Trek: Discovery,67198,386,9.0
+Star Trek: Discovery,67198,1513,1.0
+Star Trek: Discovery,67198,391,2.0
+Star Trek: Discovery,67198,1286,5.0
+Star Trek: Discovery,67198,1576,1.0
+Ozark,69740,394,10.0
+Doom Patrol,79501,395,8.0
+Doom Patrol,79501,398,8.0
+Xena: Warrior Princess,4616,1576,10.0
+Dark,70523,813,9.0
+Dark,70523,1436,4.0
+Dark,70523,1575,10.0
+Dark,70523,813,9.0
+Dark,70523,1436,4.0
+Dark,70523,1575,10.0
+The Loud House,68073,1569,2.0
+NYPD Blue,194,1475,10.0
+RuPaul's Drag Race,8514,1576,1.0
+Miami Vice,1908,1576,10.0
+Halo,52814,412,2.0
+Halo,52814,413,8.0
+Halo,52814,709,7.0
+Marvel's Daredevil,61889,1542,9.0
+Marvel's Daredevil,61889,728,10.0
+Mr. Robot,62560,1475,9.0
+The Good Fight,69158,1594,9.0
+True Detective,46648,419,10.0
+True Detective,46648,420,10.0
+True Detective,46648,1541,7.0
+True Detective,46648,1594,8.0
+Silo,125988,1595,8.0
+Silo,125988,696,10.0
+Home Improvement,1558,1576,10.0
+Foundation,93740,428,2.0
+The Uncanny Counter,113268,1500,9.0
+The Uncanny Counter,113268,430,4.0
+The Uncanny Counter,113268,431,7.0
+The Peripheral,95403,1595,5.0
+The Peripheral,95403,696,9.0
+Star Trek: Picard,85949,1542,9.0
+Star Trek: Picard,85949,742,2.0
+Star Trek: Picard,85949,436,4.0
+Star Trek: Picard,85949,437,5.0
+Star Trek: Picard,85949,438,1.0
+The Ren & Stimpy Show,504,440,8.0
+The Ren & Stimpy Show,504,1456,10.0
+Hawkeye,88329,727,8.0
+The Orville,71738,1522,7.0
+The Orville,71738,445,4.0
+The Orville,71738,1286,7.0
+The Orville,71738,1569,2.0
+The Orville,71738,1595,5.0
+The Orville,71738,1456,9.0
+BAKI,80623,451,3.0
+BAKI,80623,1542,4.0
+Sherlock,19885,453,9.0
+Shadowhunters,63210,454,10.0
+Ghosts,17174,1559,4.0
+Ghosts,17174,457,10.0
+Ghosts,17174,1576,10.0
+Last Week Tonight with John Oliver,60694,1594,8.0
+Last Week Tonight with John Oliver,60694,788,3.0
+iZombie,60866,462,10.0
+The Rising of the Shield Hero,83095,1312,9.0
+Hogan's Heroes,4068,1352,4.0
+Hogan's Heroes,4068,1352,4.0
+Warrior,73544,466,2.0
+Warrior,73544,1542,7.0
+Warrior,73544,1595,6.0
+Zoey 101,1778,483,10.0
+Haven,33001,1576,10.0
+The Twilight Zone,1918,1576,10.0
+Warehouse 13,15819,1576,10.0
+Warehouse 13,15819,1243,8.0
+Ballers,62704,1542,9.0
+La Brea,128839,475,4.0
+La Brea,128839,477,5.0
+Eureka,4620,1576,10.0
+Eureka,4620,1243,4.0
+The Night Agent,129552,480,5.0
+Victorious,31251,483,10.0
+Monster,30981,484,10.0
+Longmire,43901,1576,10.0
+Scooby-Doo! Mystery Incorporated,18123,1290,8.0
+The Umbrella Academy,75006,1312,8.0
+Marvel's The Punisher,67178,1576,1.0
+Monogatari,46195,1524,4.0
+Band of Brothers,4613,493,10.0
+Band of Brothers,4613,1586,10.0
+Band of Brothers,4613,1576,10.0
+Band of Brothers,4613,1243,9.0
+Hudson & Rex,87940,1243,8.0
+Hudson & Rex,87940,1243,8.0
+Re:ZERO -Starting Life in Another World-,65942,1524,7.0
+Hannibal,40008,504,4.0
+His Dark Materials,68507,923,7.0
+His Dark Materials,68507,1567,7.0
+His Dark Materials,68507,923,7.0
+His Dark Materials,68507,509,10.0
+His Dark Materials,68507,510,10.0
+Tokyo Ghoul,61374,1286,5.0
+Charlie's Angels,3382,1576,10.0
+Moon Knight,92749,513,8.0
+Moon Knight,92749,514,10.0
+Moon Knight,92749,904,6.0
+Moon Knight,92749,727,8.0
+Moon Knight,92749,709,9.0
+Moon Knight,92749,709,9.0
+Only Murders in the Building,107113,1472,9.0
+Only Murders in the Building,107113,718,4.0
+"Girlfriend, Girlfriend",113137,706,7.0
+Quantico,62816,1540,2.0
+Quantico,62816,788,1.0
+black-ish,61381,802,8.0
+Starsky & Hutch,1532,1243,9.0
+The Fresh Prince of Bel-Air,1892,1542,8.0
+Big Mouth,74204,1312,5.0
+Big Mouth,74204,1576,10.0
+Dragon Ball Super,62715,923,8.0
+Dragon Ball Super,62715,1542,9.0
+Dragon Ball Super,62715,904,6.0
+Marvel's Jessica Jones,38472,540,6.0
+Marvel's Jessica Jones,38472,1542,8.0
+T. J. Hooker,1059,1576,10.0
+Chernobyl,87108,1594,10.0
+Chernobyl,87108,1541,9.0
+Chernobyl,87108,1464,4.0
+Chernobyl,87108,546,10.0
+The King's Affection,129478,1588,2.0
+Bosch: Legacy,153657,1594,9.0
+Money Heist,71446,549,10.0
+Money Heist,71446,551,10.0
+Money Heist,71446,552,6.0
+Money Heist,71446,1436,4.0
+Van Helsing,65820,1286,3.0
+Van Helsing,65820,1456,10.0
+Inside Job,97727,1569,2.0
+Inside Job,97727,557,7.0
+Arcane,94605,1569,4.0
+Arcane,94605,559,10.0
+Arcane,94605,677,10.0
+Trollhunters: Tales of Arcadia,68267,1405,10.0
+Trollhunters: Tales of Arcadia,68267,1405,10.0
+Trollhunters: Tales of Arcadia,68267,1542,9.0
+Sleepy Hollow,50825,1576,10.0
+Sleepy Hollow,50825,1576,10.0
+Airwolf,2119,1576,10.0
+The Six Million Dollar Man,1663,1576,10.0
+Dahmer – Monster: The Jeffrey Dahmer Story,113988,1436,9.0
+Dahmer – Monster: The Jeffrey Dahmer Story,113988,569,8.0
+Fresh Off the Boat,61692,1542,9.0
+Sliders,1649,1576,10.0
+The View,2221,1576,1.0
+WandaVision,85271,923,9.0
+WandaVision,85271,923,9.0
+WandaVision,85271,1452,4.0
+WandaVision,85271,576,6.0
+WandaVision,85271,727,8.0
+WandaVision,85271,709,8.0
+Bodies,233629,579,1.0
+She-Hulk: Attorney at Law,92783,580,3.0
+She-Hulk: Attorney at Law,92783,727,6.0
+She-Hulk: Attorney at Law,92783,1576,1.0
+1883,118357,1594,7.0
+SHAMAN KING,104699,1542,5.0
+SHAMAN KING,104699,1542,5.0
+13 Reasons Why,66788,938,6.0
+13 Reasons Why,66788,590,5.0
+13 Reasons Why,66788,1576,1.0
+The O.C.,2673,592,10.0
+Good Omens,71915,1567,3.0
+Good Omens,71915,1576,1.0
+Good Omens,71915,1595,4.0
+Demon Slayer: Kimetsu no Yaiba,85937,596,10.0
+Hijack,198102,1595,6.0
+Lois & Clark: The New Adventures of Superman,4515,1576,10.0
+Moving,126485,1595,2.0
+Moving,126485,1595,2.0
+Adventure Time: Fionna & Cake,131378,603,9.0
+Virgin River,88324,1542,9.0
+Petticoat Junction,3346,1352,3.0
+Altered Carbon,68421,1569,1.0
+Altered Carbon,68421,696,10.0
+Schitt's Creek,61662,1464,2.0
+Schitt's Creek,61662,609,9.0
+Miracle Workers,78950,610,7.0
+Miracle Workers,78950,611,7.0
+Miracle Workers,78950,1542,7.0
+Rosewood,63329,613,10.0
+Happy Days,3845,1352,2.0
+Hill Street Blues,3828,1576,10.0
+The Kardashians,154521,904,1.0
+Disenchantment,73021,1576,1.0
+Disenchantment,73021,1595,3.0
+Twisted Metal,133748,1595,6.0
+AIBOU: Tokyo Detective Duo,40663,860,8.0
+Star Trek: Strange New Worlds,103516,1228,1.0
+Star Trek: Strange New Worlds,103516,1456,8.0
+Star Trek: Strange New Worlds,103516,1595,2.0
+Star Trek: Strange New Worlds,103516,1595,2.0
+Star Trek: Strange New Worlds,103516,630,1.0
+Line of Duty,43982,1233,10.0
+Martin,171,1576,1.0
+Line of Duty,43982,1233,10.0
+Martin,171,1576,1.0
+My Name is Farah,219826,636,10.0
+The Bear,136315,637,9.0
+The Mist,68315,639,3.0
+Animaniacs,107124,1279,10.0
+The Wild Wild West,10929,641,10.0
+American Crime Story,64513,1541,8.0
+The Book of Boba Fett,115036,643,6.0
+The Book of Boba Fett,115036,1569,2.0
+Killing Eve,72750,1475,6.0
+Killing Eve,72750,646,10.0
+The Cuphead Show!,103786,649,9.0
+The Cuphead Show!,103786,649,9.0
+The Dead Zone,1475,1576,10.0
+Moonlighting,1998,1243,10.0
+Call the Midwife,39793,1594,8.0
+The Gifted,69629,1143,10.0
+The Gifted,69629,788,3.0
+The Good Place,66573,656,7.0
+The Good Place,66573,1464,5.0
+The Outer Limits,21567,1576,10.0
+Quantum Leap,202102,1595,4.0
+Quantum Leap,202102,1456,4.0
+"Ed, Edd n Eddy",606,1542,9.0
+The Marvelous Mrs. Maisel,70796,662,9.0
+The Marvelous Mrs. Maisel,70796,1594,7.0
+All Elite Wrestling: Dynamite,91555,664,10.0
+Evil,86848,1595,6.0
+Evil,86848,1595,6.0
+ER,4588,1576,10.0
+ER,4588,668,8.0
+Big Sky,100010,669,10.0
+All Creatures Great & Small,108255,1594,10.0
+KONOSUBA – God's blessing on this wonderful world!!,65844,1524,8.0
+All American,82428,673,10.0
+All American,82428,673,10.0
+Marvel's Spider-Man,72705,674,8.0
+The Leftovers,54344,675,10.0
+I Love Lucy,2730,1576,10.0
+The Man in the High Castle,62017,677,6.0
+The Man in the High Castle,62017,678,9.0
+The Man in the High Castle,62017,1576,4.0
+Obi-Wan Kenobi,92830,727,6.0
+Obi-Wan Kenobi,92830,1595,4.0
+Obi-Wan Kenobi,92830,1576,1.0
+The Quintessential Quintuplets,84669,1461,9.0
+BEASTARS,90937,1542,7.0
+Star Wars: Andor,83867,692,1.0
+Star Wars: Andor,83867,693,10.0
+Star Wars: Andor,83867,1456,8.0
+Star Wars: Andor,83867,696,8.0
+Star Wars: Andor,83867,692,1.0
+Star Wars: Andor,83867,693,10.0
+Star Wars: Andor,83867,1456,8.0
+Star Wars: Andor,83867,696,8.0
+Star Trek: Lower Decks,85948,697,1.0
+Star Trek: Lower Decks,85948,1279,10.0
+Firefly,1437,1243,10.0
+That Time I Got Reincarnated as a Slime,82684,1524,10.0
+That Time I Got Reincarnated as a Slime,82684,1312,3.0
+Castlevania: Nocturne,123548,907,4.0
+Good Witch,61864,705,10.0
+My Dress-Up Darling,123249,706,8.0
+The Falcon and the Winter Soldier,88396,923,6.0
+The Falcon and the Winter Soldier,88396,727,6.0
+Servant,88055,923,9.0
+Redo of Healer,99071,1524,1.0
+Redo of Healer,99071,1312,7.0
+Harem in the Labyrinth of Another World,114477,1312,9.0
+The Irregular at Magic High School,60833,714,10.0
+The Irregular at Magic High School,60833,1524,7.0
+Mushi-Shi,26867,1524,5.0
+MINDHUNTER,67744,1595,5.0
+MINDHUNTER,67744,718,5.0
+Cowboy Bebop,30991,1524,10.0
+Scarecrow and Mrs. King,3414,1576,10.0
+Cowboy Bebop,30991,1524,10.0
+Scarecrow and Mrs. King,3414,1576,10.0
+Roswell,4624,1542,8.0
+Space Force,85922,724,7.0
+Space Force,85922,740,5.0
+Space Force,85922,1464,3.0
+Ms. Marvel,92782,727,6.0
+Ms. Marvel,92782,728,9.0
+Ragnarok,91557,730,4.0
+Cyberpunk: Edgerunners,105248,1250,4.0
+The IT Crowd,2490,1559,5.0
+The Boys Presents: Diabolical,152483,1312,1.0
+The IT Crowd,2490,1559,5.0
+The Boys Presents: Diabolical,152483,1312,1.0
+Psycho-Pass,43865,1154,7.0
+Unbreakable Kimmy Schmidt,61671,1542,8.0
+"Love, Victor",97186,740,6.0
+DC's Stargirl,80986,740,8.0
+DC's Stargirl,80986,1542,9.0
+DC's Stargirl,80986,742,4.0
+The Librarians,61599,928,8.0
+Teenage Mutant Ninja Turtles,2284,1542,8.0
+Teenage Mutant Ninja Turtles,2284,1290,6.0
+Alexa & Katie,76874,1542,8.0
+Nikita,32868,747,9.0
+Atlanta,65495,920,8.0
+To Your Eternity,97525,1154,10.0
+Sense8,61664,830,10.0
+Sword Art Online,45782,752,10.0
+Terminator: The Sarah Connor Chronicles,433,755,8.0
+Terminator: The Sarah Connor Chronicles,433,1576,10.0
+Terminator: The Sarah Connor Chronicles,433,755,8.0
+Terminator: The Sarah Connor Chronicles,433,1576,10.0
+Atypical,71578,1594,10.0
+Atypical,71578,758,8.0
+86 EIGHTY-SIX,100565,1467,8.0
+No Game No Life,60808,1524,10.0
+Johnny Test,1769,762,8.0
+The Dragon Prince,81046,1312,1.0
+The Dragon Prince,81046,1312,1.0
+Are You Afraid of the Dark?,2913,1570,10.0
+Are You Afraid of the Dark?,2913,1576,1.0
+Baby Daddy,42272,1542,8.0
+Stargate Universe,5148,1456,8.0
+Baby Daddy,42272,1542,8.0
+Stargate Universe,5148,1456,8.0
+Sam & Cat,45666,773,10.0
+Bridgerton,91239,1542,9.0
+A Touch of Frost,2474,1594,7.0
+The Pacific,16997,1576,10.0
+Star Wars: The Bad Batch,105971,777,8.0
+Your Lie in April,61663,778,10.0
+May I Help You?,209275,1500,10.0
+Wow! Wow! Wubbzy!,1346,780,10.0
+The Purge,80213,1576,1.0
+Shadow and Bone,85720,1542,7.0
+The Purge,80213,1576,1.0
+Shadow and Bone,85720,1542,7.0
+Primeval,10268,1594,9.0
+Good Trouble,80006,788,1.0
+The Idol,135251,1576,10.0
+Nashville,44549,1243,6.0
+Jumong,4734,1588,4.0
+FLCL,5895,794,10.0
+Jumong,4734,1588,4.0
+FLCL,5895,794,10.0
+Citadel,114922,1595,5.0
+Citadel,114922,826,4.0
+Citadel,114922,797,7.0
+All in the Family,1922,1352,7.0
+It,19614,799,4.0
+It,19614,966,8.0
+A Discovery of Witches,77236,1592,8.0
+Severance,95396,802,9.0
+"Be Cool, Scooby-Doo!",64228,1561,1.0
+"Be Cool, Scooby-Doo!",64228,1290,7.0
+"Be Cool, Scooby-Doo!",64228,1576,1.0
+Defiance,51704,866,6.0
+Defiance,51704,1576,10.0
+Hemlock Grove,42295,1576,1.0
+Party of Five,4266,1243,9.0
+The Haunting of Hill House,72844,938,8.0
+The Haunting of Hill House,72844,813,8.0
+The Haunting of Hill House,72844,1436,4.0
+A Million Little Things,81499,1286,7.0
+A Million Little Things,81499,1576,1.0
+Uzaki-chan Wants to Hang Out!,98986,1312,10.0
+True Lies,202099,1595,5.0
+Castlevania,71024,1542,8.0
+Nancy Drew,89572,1576,1.0
+Castle Rock,71116,1436,4.0
+Castle Rock,71116,824,7.0
+Grantchester,61457,1594,7.0
+The Neighborhood,81144,826,2.0
+Scooby-Doo and Guess Who?,88367,1576,10.0
+Dragon Age: Absolution,203805,1312,2.0
+Dragon Age: Absolution,203805,830,6.0
+Akame ga Kill!,61223,1524,4.0
+The End of the F***ing World,74577,1286,1.0
+Suburra: Blood on Rome,73671,1595,5.0
+Resident Evil,108296,1595,3.0
+Resident Evil,108296,1576,1.0
+Life,3797,1243,8.0
+Voltron: Legendary Defender,66558,1576,10.0
+The Terminal List,120911,1595,4.0
+The Terminal List,120911,1456,7.0
+Manhunt,72597,840,6.0
+Manhunt,72597,1576,5.0
+Falling Skies,34967,842,5.0
+Wynonna Earp,65988,1542,9.0
+Green Acres,609,847,10.0
+Green Acres,609,1576,10.0
+Green Acres,609,1352,8.0
+Happy Tree Friends,1126,850,5.0
+The Alfred Hitchcock Hour,21728,1576,10.0
+Nadia: The Secret of Blue Water,24710,1290,7.0
+Fleabag,67070,1559,1.0
+Fleabag,67070,855,9.0
+Outer Banks,100757,1542,8.0
+Fantasy Island,39775,1576,10.0
+The Alienist,71769,860,6.0
+The Alienist,71769,861,9.0
+Batwoman,89247,1542,7.0
+Monty Python's Flying Circus,849,1352,8.0
+Continuum,43020,865,10.0
+Continuum,43020,866,6.0
+Fate: The Winx Saga,97175,1542,8.0
+Our Flag Means Death,109939,904,10.0
+Our Flag Means Death,109939,1595,2.0
+The Ranch,65493,1542,9.0
+My Love Story With Yamada-kun at Lv999,208067,1312,6.0
+Infinity Train,91425,1290,8.0
+The Outer Limits,21561,1576,10.0
+1923,157744,1077,6.0
+Family Reunion,87093,1542,9.0
+Pride and Prejudice,1457,1594,8.0
+Pride and Prejudice,1457,1145,10.0
+Guillermo del Toro's Cabinet of Curiosities,83659,1436,8.0
+Strawberries with Sugar,308,1145,2.0
+The Walking Dead: World Beyond,94305,1228,1.0
+The Walking Dead: World Beyond,94305,1569,2.0
+The Ark,47663,1595,4.0
+The Twilight Zone,16399,1576,4.0
+FUBAR,221300,1077,4.0
+FUBAR,221300,1595,4.0
+Absentia,72755,1260,4.0
+Maid,111141,1455,9.0
+Maid,111141,1455,9.0
+The Girlfriend Experience,64387,1286,4.0
+Tales from the Crypt,2391,892,10.0
+Tales from the Crypt,2391,893,8.0
+Tales from the Crypt,2391,1576,10.0
+The King: Eternal Monarch,93846,1500,9.0
+Masters of Horror,3470,1576,10.0
+Dirty John,83251,1436,9.0
+Nick Cannon Presents: Wild 'N Out,2299,1576,1.0
+The Mick,66551,1522,7.0
+Vincenzo,117376,900,10.0
+When They See Us,81355,1594,9.0
+She-Ra and the Princesses of Power,79732,1576,1.0
+The Witcher: Blood Origin,106541,1595,3.0
+The Witcher: Blood Origin,106541,904,1.0
+Invader ZIM,3793,1290,7.0
+Paradise PD,81983,1576,1.0
+DOTA: Dragon's Blood,118956,907,8.0
+Ranking of Kings,112613,1286,6.0
+Extraordinary Attorney Woo,197067,910,10.0
+Extraordinary Attorney Woo,197067,1455,9.0
+The Righteous Gemstones,82782,1542,7.0
+The Righteous Gemstones,82782,1542,7.0
+The Devil's Plan,214582,1436,10.0
+Leave It to Beaver,5133,1576,10.0
+The Legend of Vox Machina,135934,1312,4.0
+WKRP in Cincinnati,971,1576,10.0
+Unsolved Mysteries,126,1576,10.0
+Scream: The TV Series,62823,920,8.0
+Scream: The TV Series,62823,1576,1.0
+Watchmen,79788,922,9.0
+Watchmen,79788,923,10.0
+Watchmen,79788,1541,9.0
+Sledge Hammer!,520,1576,10.0
+Kaiji,42951,926,8.0
+Unforgotten,62505,1594,10.0
+Tour of Duty,11095,928,7.0
+1899,90669,1595,4.0
+1899,90669,1077,8.0
+1899,90669,1136,4.0
+1899,90669,1259,7.0
+1899,90669,1456,8.0
+Little Einsteins,3090,937,10.0
+The Outsider,84661,938,5.0
+The Outsider,84661,1541,7.0
+The Angel Next Door Spoils Me Rotten,154743,1155,10.0
+The Angel Next Door Spoils Me Rotten,154743,1155,10.0
+Kolchak: The Night Stalker,5084,1068,7.0
+Kolchak: The Night Stalker,5084,1352,1.0
+Motherland: Fort Salem,91977,944,10.0
+Motherland: Fort Salem,91977,945,8.0
+Motherland: Fort Salem,91977,1542,7.0
+Hunters,79622,1576,1.0
+Dopesick,110695,1464,9.0
+Marvel's Luke Cage,62126,949,9.0
+Marvel's Luke Cage,62126,950,10.0
+Marvel's Luke Cage,62126,1542,9.0
+Black Bird,155537,952,7.0
+The Kelly Clarkson Show,82873,953,9.0
+Primal,89456,954,9.0
+Anne Rice's Mayfair Witches,207863,1576,2.0
+The Crimson Rivers,82149,1595,9.0
+Single's Inferno,139798,1436,10.0
+Dead to Me,81357,1586,8.0
+Simon & Simon,2102,1576,10.0
+Russian Doll,84977,1594,9.0
+North and South,3266,966,1.0
+Young Royals,125910,967,9.0
+Masters of the Universe: Revelation,96658,1542,7.0
+Masters of the Universe: Revelation,96658,1576,1.0
+The Mighty Ones,112063,970,8.0
+Mare of Easttown,115004,1594,8.0
+The Terror,75191,1594,7.0
+The OA,69061,979,8.0
+The OA,69061,1436,10.0
+The OA,69061,1436,10.0
+The OA,69061,1259,8.0
+Roman Empire,68708,1576,1.0
+The Terror,75191,1594,7.0
+The OA,69061,979,8.0
+The OA,69061,1436,10.0
+The OA,69061,1436,10.0
+The OA,69061,1259,8.0
+Roman Empire,68708,1576,1.0
+The Worst of Evil,210704,1595,8.0
+A Korean Odyssey,75123,1467,8.0
+Gate,63663,1524,4.0
+Hotel Del Luna,90447,1500,10.0
+18 Again,99654,1467,10.0
+The Lost Flowers of Alice Hart,125816,1529,10.0
+Fire Country,202297,1576,10.0
+The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat,118821,1154,4.0
+Dong Yi,38852,993,1.0
+Dong Yi,38852,1588,4.0
+Dong Yi,38852,1533,10.0
+Chemistry,41875,1542,9.0
+SurrealEstate,106148,1595,6.0
+Resident Alien,96580,1077,7.0
+Locke & Key,86423,999,5.0
+Broadchurch,1427,1559,1.0
+The Outpost,79340,1559,6.0
+8 Out of 10 Cats Does Countdown,62974,1002,8.0
+Revenge of Others,208336,1595,8.0
+Hercules: The Legendary Journeys,4615,1576,10.0
+The Exorcist,67135,1436,6.0
+Wonder Egg Priority,111255,1154,4.0
+Just Shoot Me!,4576,1008,10.0
+Freaks and Geeks,2382,1008,9.0
+Halt and Catch Fire,59659,1009,8.0
+Halt and Catch Fire,59659,1020,10.0
+The Devil Is a Part-Timer!,45997,1524,10.0
+Song of the Bandits,136368,1595,4.0
+The Twilight Zone,83135,1013,6.0
+The Twilight Zone,83135,1576,1.0
+Greenhouse Academy,73602,1542,8.0
+The Last Man on Earth,61888,1286,4.0
+Final Space,74387,1395,9.0
+Homecoming,80335,1586,8.0
+Star Trek,1992,1576,8.0
+Twenty Five Twenty One,129888,1020,10.0
+America's Most Wanted,1802,1576,10.0
+Inventing Anna,95665,1464,5.0
+The Old Man,111800,1024,1.0
+The Old Man,111800,1595,5.0
+The Old Man,111800,1026,1.0
+Beelzebub,38603,1524,9.0
+Tower of God,97860,1524,1.0
+Tower of God,97860,1524,1.0
+Big Little Lies,66292,1405,9.0
+The Nevers,80828,1542,8.0
+Hart of Dixie,39279,1243,6.0
+Bloodline,61986,1475,9.0
+The Hitchhiker,10370,1576,10.0
+LazyTown,1894,1035,10.0
+Willow,111837,1576,1.0
+Wizards: Tales of Arcadia,105797,1542,6.0
+"Nevertheless,",126035,1455,7.0
+"Nevertheless,",126035,1588,2.0
+Bering Sea Gold,58704,1044,9.0
+Bering Sea Gold,58704,1044,9.0
+Wandering Witch: The Journey of Elaina,94693,1524,7.0
+To the Lake,95202,1595,10.0
+Agatha Raisin,66671,1594,5.0
+The Order,82104,1542,7.0
+GLOW,70573,1365,9.0
+Frasier,195241,1595,9.0
+Rabbit Hole,156819,1595,4.0
+2gether: The Series,99631,1055,10.0
+F is for Family,63522,1576,10.0
+2gether: The Series,99631,1055,10.0
+F is for Family,63522,1576,10.0
+Raising Dion,93392,1287,7.0
+Dark Matter,62425,1542,8.0
+Marcella,66023,1475,7.0
+Barbarians,93785,1436,10.0
+11.22.63,64464,1576,10.0
+Helix,58811,1436,4.0
+Ghosts,126027,1576,4.0
+"Roswell, New Mexico",82001,1246,10.0
+"Roswell, New Mexico",82001,1542,8.0
+The Dark Crystal: Age of Resistance,71809,1542,9.0
+HAPPY!,72339,1576,10.0
+Ultraman,80795,1071,8.0
+Zombieverse,217945,1506,1.0
+Seirei Gensouki: Spirit Chronicles,113808,1073,2.0
+Marvel's Cloak & Dagger,66190,1542,9.0
+Something in the Rain,78385,1075,10.0
+Class of '09,127948,1077,5.0
+From the Earth to the Moon,3556,1078,9.0
+Knights of Sidonia,60831,1524,7.0
+Dollhouse,14956,1080,8.0
+After Life,79410,1081,10.0
+Gilmore Girls: A Year in the Life,68799,1594,7.0
+The Good Bad Mother,214999,1083,9.0
+Midnight Mass,97400,1084,6.0
+Alphas,39362,1576,1.0
+Island,211747,1086,10.0
+Island,211747,1595,4.0
+Seaside Hotel,62474,1594,9.0
+So I Married an Anti-Fan,122978,1131,6.0
+So I Married an Anti-Fan,122978,1588,2.0
+Interview with the Vampire,128098,1595,4.0
+Interview with the Vampire,128098,1576,1.0
+Claymore,34791,1524,8.0
+Power Rangers,2328,1542,9.0
+Power Rangers,2328,1095,6.0
+The Stranger,96608,1586,4.0
+Black Knight,137040,1595,4.0
+Black Knight,137040,1099,9.0
+Black Knight,137040,1436,7.0
+Blood of Zeus,111111,1542,9.0
+In the Heat of the Night,862,1576,8.0
+In the Heat of the Night,862,1576,8.0
+She-Ra: Princess of Power,14755,1576,10.0
+Jupiter's Legacy,93484,1542,9.0
+The Stand,86382,1576,1.0
+Marvel's The Defenders,62285,1542,9.0
+Marvel's The Defenders,62285,1576,10.0
+Sanford and Son,2586,1352,9.0
+Gleipnir,96203,1154,4.0
+Mrs. Fazilet and Her Daughters,76560,1153,10.0
+The Care Bears,2264,1576,10.0
+Charlotte,63145,1524,10.0
+Stuart Little: The Animated Series,10840,1253,7.0
+Keep Your Hands Off Eizouken!,92579,1524,8.0
+V Wars,81559,1436,8.0
+V Wars,81559,1436,8.0
+One Day at a Time,69017,1120,9.0
+One Day at a Time,69017,1542,8.0
+One Day at a Time,69017,1122,10.0
+Home Before Dark,98161,1123,9.0
+Call My Agent!,64165,1250,6.0
+The Last Dance,79525,1126,9.0
+Jake and the Fatman,4521,1576,10.0
+As Time Goes By,88,1594,9.0
+Busted!,78798,1131,8.0
+As Time Goes By,88,1594,9.0
+Busted!,78798,1131,8.0
+My Hero Academia,65930,1133,10.0
+My Hero Academia,65930,1524,8.0
+The Diplomat,203857,1136,7.0
+The Diplomat,203857,1594,9.0
+Dracula,86850,1542,4.0
+Dracula,86850,1541,8.0
+Dear White People,70767,1140,1.0
+The Stand,9045,1576,10.0
+Better Things,66859,1143,8.0
+Human Target,18653,1243,8.0
+The White Queen,57092,1145,8.0
+First Kill,111616,1149,10.0
+First Kill,111616,1149,10.0
+First Kill,111616,1149,10.0
+Patrick Melrose,72787,1541,7.0
+Scarlet Heart: Ryeo,66433,1500,8.0
+Maken-Ki! Battling Venus,60732,1312,8.0
+Wounded Love,69459,1153,10.0
+Sonny Boy,124396,1154,4.0
+Kyo Kara Maoh!,43232,1155,3.0
+While You Were Sleeping,70649,1500,9.0
+Gentleman Jack,86163,1594,7.0
+Another Life,79130,1436,8.0
+The Night Manager,61859,1405,8.0
+Station Eleven,90972,1228,1.0
+Station Eleven,90972,1162,10.0
+Station Eleven,90972,1163,10.0
+The Super Mario Bros. Super Show!,14613,1164,7.0
+The A List,85427,1575,8.0
+The A List,85427,1575,8.0
+Sanctuary,210269,1574,8.0
+The Inbetweeners,7317,1168,8.0
+The Winchesters,128113,1595,3.0
+The Winchesters,128113,1595,3.0
+Duncanville,93292,1576,1.0
+Wayne,84231,1173,10.0
+Wayne,84231,1173,10.0
+Instinct,72745,1594,8.0
+City on a Hill,79618,1176,7.0
+City on a Hill,79618,1176,7.0
+StartUp,66310,1357,4.0
+Life on Mars,2973,1540,9.0
+Derry Girls,76148,1594,10.0
+Derry Girls,76148,1569,8.0
+Derry Girls,76148,1576,10.0
+Rocco Schiavone,67639,1595,10.0
+Life on Mars,2973,1540,9.0
+Derry Girls,76148,1594,10.0
+Derry Girls,76148,1569,8.0
+Derry Girls,76148,1576,10.0
+Rocco Schiavone,67639,1595,10.0
+Kim's Convenience,68106,1542,8.0
+Golden Boy,34105,1189,1.0
+Samurai Champloo,1063,1524,10.0
+Duty After School,158258,1506,2.0
+Corner Gas,429,1594,8.0
+The Night Of,66276,1217,5.0
+Velma,126725,1576,1.0
+Velma,126725,1199,5.0
+Domina,106734,1595,5.0
+Rose Red,19654,1576,10.0
+Jellystone!,128071,1576,1.0
+Not Dead Yet,203178,1576,10.0
+Stargate Origins,72925,1576,1.0
+Patriot,64396,1206,8.0
+Devs,81349,1594,7.0
+Devs,81349,1208,5.0
+Liaison,128066,1595,4.0
+Project Blue Book,79649,1210,5.0
+DASH & LILY,111625,1542,7.0
+DASH & LILY,111625,1212,8.0
+Are You Afraid of the Dark?,93693,1575,2.0
+Are You Afraid of the Dark?,93693,1575,2.0
+Vagabond,92983,1500,8.0
+Generation War,46849,1217,1.0
+Little Britain,380,1218,10.0
+The Man from U.N.C.L.E.,210,1576,10.0
+Physical: 100,210905,1506,6.0
+Better Than Us,84380,1436,9.0
+Better Than Us,84380,1436,9.0
+The First Responders,211261,1595,8.0
+Deadly Class,75663,1224,10.0
+Doctor Cha,214997,1226,10.0
+Doctor Cha,214997,1226,10.0
+3Below: Tales of Arcadia,84154,1542,8.0
+Somewhere Between,70390,1228,3.0
+Black Summer,88052,1575,10.0
+The Interpreter of Silence,220374,1595,6.0
+Queen Cleopatra,224387,1595,4.0
+Queen Cleopatra,224387,1576,1.0
+Queen Cleopatra,224387,1235,1.0
+Birds of Prey,1469,1576,1.0
+Who Killed Sara?,120168,1237,4.0
+Vigil,126167,1594,9.0
+The Casketeers,84181,1586,6.0
+Wolf Pack,134865,1241,1.0
+Alias Smith and Jones,3275,1243,8.0
+Occupied,63867,1250,8.0
+Imposters,69889,1246,10.0
+Strangers from Hell,89959,1249,10.0
+Giri/Haji,94659,1250,6.0
+Giri/Haji,94659,1597,9.0
+My Senpai Is Annoying,105511,1312,10.0
+Alfred Hitchcock Presents,5273,1253,6.0
+Alfred Hitchcock Presents,5273,1576,10.0
+Kath & Kim,1772,1586,10.0
+The Andromeda Strain,19997,1501,4.0
+Undone,86340,1259,8.0
+Between,62433,1260,2.0
+Marvel's Iron Fist,62127,1261,1.0
+Marvel's Iron Fist,62127,1262,6.0
+Marvel's Iron Fist,62127,1264,2.0
+Marvel's Iron Fist,62127,1542,8.0
+AJ and the Queen,84896,1266,7.0
+Our Beloved Summer,135897,1588,5.0
+Quarry,66911,1270,8.0
+High Seas,88239,1575,6.0
+Quarry,66911,1270,8.0
+High Seas,88239,1575,6.0
+Mine,124426,1588,4.0
+Black Bullet,60834,1524,6.0
+The Next Step,62404,1274,7.0
+The Odyssey,9687,1275,10.0
+A Love So Beautiful,114395,1588,2.0
+Offspring,33155,1277,6.0
+Captain Fall,229153,1279,9.0
+Captain Fall,229153,1279,9.0
+Three-Body,204541,1595,4.0
+Three-Body,204541,1281,10.0
+Full Frontal with Samantha Bee,65592,1282,1.0
+Annika,130273,1594,9.0
+Annika,130273,1595,7.0
+Ergo Proxy,1097,1524,7.0
+Loudermilk,73200,1286,5.0
+Black Spot,70613,1575,5.0
+Hinamatsuri,76758,1524,9.0
+Shaggy & Scooby-Doo Get a Clue!,593,1290,3.0
+Heathcliff and the Catillac Cats,13781,1576,10.0
+Snorks,4237,1576,10.0
+Snorks,4237,1576,10.0
+Battlestar Galactica,71365,1576,10.0
+The Society,84647,1575,8.0
+The Society,84647,1542,3.0
+Back Streets,32836,1298,10.0
+Wu Assassins,86752,1542,4.0
+Wu Assassins,86752,1569,2.0
+Clone High,2342,1301,7.0
+The Patient,135868,1595,9.0
+Mr. Mayor,113477,1558,1.0
+Tin Star,70384,1305,8.0
+Snowdrop,108291,1588,3.0
+Nazar,81927,1307,10.0
+Dungeons & Dragons,553,1542,8.0
+The Other Two,85519,1309,10.0
+Start-Up,99048,1500,9.0
+Sanditon,92875,1594,7.0
+Black Summoner,157842,1312,8.0
+Farzar,202864,1569,2.0
+Sense and Sensibility,13892,1594,9.0
+Bambai Meri Jaan,202237,1319,7.0
+Sense and Sensibility,13892,1594,9.0
+Bambai Meri Jaan,202237,1319,7.0
+Emperor Wang Gun,17039,1588,4.0
+Brave New World,93289,1324,2.0
+1000 Ways to Die,15826,1325,10.0
+Eli Roth's History of Horror,83181,1327,8.0
+Eli Roth's History of Horror,83181,1327,8.0
+Inside Man,121710,1595,1.0
+Capitani,95638,1569,2.0
+Capitani,95638,1569,2.0
+The Devil's Hour,157061,1331,8.0
+Emergence,91962,1576,1.0
+ID: INVADED,92602,1524,4.0
+Riptide,4379,1576,10.0
+Holiday Baking Championship,68598,1336,10.0
+The Golden Palace,3068,1337,5.0
+Police University,127356,1588,3.0
+Lawless Lawyer,78796,1342,10.0
+Country Comfort,119180,1542,9.0
+The Baby-Sitters Club,100412,1542,7.0
+Lawless Lawyer,78796,1342,10.0
+Country Comfort,119180,1542,9.0
+The Baby-Sitters Club,100412,1542,7.0
+Almost Human,51019,1456,8.0
+Almost Human,51019,1576,10.0
+Requiem,76819,1541,5.0
+Hinterland,60605,1594,7.0
+Jane Eyre,13851,1351,10.0
+Jane Eyre,13851,1351,10.0
+High Fidelity,96734,1352,3.0
+"Eerie, Indiana",4045,1576,10.0
+Top of the Lake,46638,1357,4.0
+Top of the Lake,46638,1358,10.0
+Top of the Lake,46638,1357,4.0
+Top of the Lake,46638,1358,10.0
+Blue Lights,218344,1360,10.0
+Blue Lights,218344,1594,10.0
+Grace,120317,1594,7.0
+Grace,120317,1594,7.0
+Intersection,65566,1364,9.0
+Gypsy,66939,1365,1.0
+McDonald & Dodds,99962,1594,8.0
+The Name of the Rose,86343,1367,5.0
+Mrs Brown's Boys,34965,1542,9.0
+Revenant,210702,1595,8.0
+Mrs Brown's Boys,34965,1542,9.0
+Revenant,210702,1595,8.0
+Terrace House: Boys & Girls in the City,66647,1586,8.0
+Merry Happy Whatever,94587,1542,8.0
+History 101,102905,1586,4.0
+Bad and Crazy,132979,1588,4.0
+The World at War,751,1377,10.0
+Dark Side of Comedy,205568,1378,9.0
+"You're the Best, Lee Soon Shin",47084,1500,8.0
+The North Water,86941,1559,9.0
+Future-Worm!,107968,1456,5.0
+Douluo Continent,112202,1383,10.0
+Douluo Continent,112202,1383,10.0
+Three Little Birds,237311,1594,8.0
+Inspector Koo,129475,1588,6.0
+Andi Mack,70540,1405,8.0
+Andi Mack,70540,1405,8.0
+Chief of Staff,89642,1588,5.0
+Lovestruck in the City,113710,1500,10.0
+Central Park,98198,1542,8.0
+Central Park,98198,1391,5.0
+The Upshaws,121509,1542,8.0
+Tripping the Rift,4585,1395,7.0
+The Upshaws,121509,1542,8.0
+Tripping the Rift,4585,1395,7.0
+No Good Nick,82578,1542,8.0
+So Not Worth It,110545,1588,2.0
+Fatmagul,44807,1399,10.0
+Agency,203698,1455,9.0
+Agency,203698,1455,9.0
+Age of Samurai: Battle for Japan,93736,1402,9.0
+Age of Samurai: Battle for Japan,93736,1515,9.0
+SilverHawks,12504,1576,10.0
+The Colour of Magic,5885,1405,7.0
+The Vietnam War,46434,1541,9.0
+The Irregulars,98187,1542,7.0
+Deputy,89498,1576,1.0
+The Irregulars,98187,1542,7.0
+Deputy,89498,1576,1.0
+Tidelands,83381,1436,5.0
+The Secret Circle,37664,1436,8.0
+The Secret Circle,37664,1436,8.0
+The Bible,43899,1576,10.0
+MH370: The Plane That Disappeared,220499,1594,10.0
+Jirisan,110533,1425,8.0
+Jirisan,110533,1425,8.0
+Jirisan,110533,1588,3.0
+Jirisan,110533,1425,8.0
+Jirisan,110533,1425,8.0
+Jirisan,110533,1588,3.0
+Tinker Tailor Soldier Spy,35430,1594,7.0
+Marlon,71887,1542,8.0
+SAS: Rogue Heroes,93870,1595,4.0
+Bloodlands,119191,1594,6.0
+Bloodlands,119191,1595,5.0
+The Hollow,79948,1542,7.0
+Navillera,119464,1588,6.0
+Kleo,206010,1595,3.0
+The I-Land,90755,1436,8.0
+Rookie Cops,126484,1588,2.0
+Jeffrey Epstein: Filthy Rich,103506,1586,8.0
+He-Man and the Masters of the Universe,3035,1542,8.0
+Mr. Iglesias,88378,1542,9.0
+The King of Legend,35278,1588,5.0
+Safe,72792,1443,2.0
+Safe,72792,1575,9.0
+Mrs. America,83605,1445,8.0
+Racket Boys,125437,1588,3.0
+A League of Their Own,107005,1576,1.0
+Warrior Baek Dong Soo,40016,1588,3.0
+DNA,93286,1594,8.0
+The Loudest Voice,80443,1541,8.0
+The Loudest Voice,80443,1452,9.0
+Divorce Attorney Shin,204241,1455,2.0
+Detectorists,61828,1456,9.0
+Divorce Attorney Shin,204241,1455,2.0
+Detectorists,61828,1456,9.0
+Alien TV,107422,1569,2.0
+Fuuka,69284,1461,10.0
+Terrace House: Aloha State,69864,1586,6.0
+Devil in Ohio,133700,1595,3.0
+Hot Girls Wanted: Turned On,71373,1464,7.0
+One Foot In the Grave,4548,1594,10.0
+One Foot In the Grave,4548,1594,10.0
+Ghost Doctor,152471,1588,5.0
+My Strange Hero,84464,1471,8.0
+My Strange Hero,84464,1471,8.0
+The Chelsea Detective,156240,1474,4.0
+The Mechanism,76954,1475,7.0
+Chicago Party Aunt,130077,1569,2.0
+Adamas,205040,1595,8.0
+The Looming Tower,70721,1541,8.0
+Never Twice,94940,1588,4.0
+Framed! A Sicilian Murder Mystery,154535,1569,2.0
+Adventures of Superman,12662,1576,6.0
+Let the Right One In,136735,1595,4.0
+Let the Right One In,136735,1595,4.0
+Thirty-Nine,131028,1588,4.0
+Training Day,68000,1576,1.0
+Baseball,19215,1576,1.0
+Baseball,19215,1576,1.0
+Chimera,96262,1588,4.0
+The Devil Judge,119772,1595,6.0
+Gu Family Book,47179,1500,10.0
+The Shining,1867,1501,5.0
+Gu Family Book,47179,1500,10.0
+The Shining,1867,1501,5.0
+Was It Love?,96161,1588,3.0
+Brand New Cherry Flavor,129418,1569,4.0
+Awkwafina is Nora From Queens,96231,1567,7.0
+The Blue Whisper,136973,1506,8.0
+Booba,81700,1569,2.0
+Dispatches from Elsewhere,81241,1513,1.0
+Dispatches from Elsewhere,81241,1515,8.0
+Dispatches from Elsewhere,81241,1516,6.0
+Dispatches from Elsewhere,81241,1517,5.0
+Dispatches from Elsewhere,81241,1513,1.0
+Dispatches from Elsewhere,81241,1515,8.0
+Dispatches from Elsewhere,81241,1516,6.0
+Dispatches from Elsewhere,81241,1517,5.0
+The Kennedys,34531,1576,1.0
+Bulgasal: Immortal Souls,137520,1588,4.0
+The Serpent Queen,118189,1595,4.0
+The Guest Book,72544,1522,6.0
+My Bride is a Mermaid,56834,1524,4.0
+She Would Never Know,113965,1588,3.0
+Missing: The Other Side,106761,1595,7.0
+The Kingdom of the Wind,38932,1588,3.0
+Flowers in the Attic: The Origin,203728,1529,10.0
+Flowers in the Attic: The Origin,203728,1529,10.0
+Goodnight Sweetheart,5632,1542,7.0
+Tear Along the Dotted Line,135918,1569,2.0
+"Lee San, Wind in the Palace",15135,1588,5.0
+"Lee San, Wind in the Palace",15135,1533,10.0
+Somebody Feed Phil,76305,1586,8.0
+Youth of May,119466,1588,4.0
+The Brave,71714,1537,6.0
+The Brave,71714,1537,6.0
+GHOUL,80707,1538,3.0
+Hanada Shounen-shi,43228,1539,10.0
+Ashes to Ashes,1180,1540,10.0
+The Disappearance,72744,1541,7.0
+The Letter for the King,99356,1542,8.0
+Silsila Badalte Rishton Ka,80540,1543,1.0
+Ancient Apocalypse,212869,1544,6.0
+Ancient Apocalypse,212869,1576,10.0
+Sick Note,72313,1569,10.0
+"Gwanggaeto, The Great Conqueror",39606,1588,4.0
+Terrace House: Tokyo 2019-2020,88850,1586,6.0
+Maigret,69533,1594,10.0
+Maigret,69533,1594,10.0
+The Pembrokeshire Murders,116500,1597,6.0
+The Pembrokeshire Murders,116500,1594,7.0
+Emma,18156,1594,10.0
+My Unfamiliar Family,100941,1588,4.0
+My Unfamiliar Family,100941,1588,4.0
+Call Me Kat,113627,1558,1.0
+Call Me Kat,113627,1558,1.0
+Des,96628,1559,1.0
+Jem,3127,1576,10.0
+You Can't Do That on Television,3607,1561,8.0
+"Hur Jun, The Original Story",57788,1588,5.0
+Creature,47096,1564,10.0
+Dalgliesh,137127,1594,7.0
+Malibu Rescue: The Series,85958,1567,5.0
+Bad Exorcist,114183,1569,2.0
+The Lost Pirate Kingdom,118815,1569,2.0
+The Adventures of Pete & Pete,2824,1570,10.0
+Teenage Euthanasia,132922,1572,10.0
+Teenage Euthanasia,132922,1572,10.0
+The Long Shadow,231811,1574,7.0
+The Stranded,95041,1575,8.0
+Kevin (Probably) Saves the World,71725,1576,10.0
+Terrace House: Opening New Doors,75814,1586,8.0
+"At a Distance, Spring is Green",126436,1588,1.0
+Floor Is Lava,104999,1586,2.0
+Melancholia,127527,1588,3.0
+Roadkill,111573,1583,9.0
+Roadkill,111573,1583,9.0
+One the Woman,129479,1588,4.0
+One the Woman,129479,1588,4.0
+Don't F**k with Cats: Hunting an Internet Killer,96129,1586,6.0
+Mad Dog,74076,1588,4.0
+Inspector Ricciardi,116179,1595,8.0
+Inspector Ricciardi,116179,1595,8.0
+Take Two,79928,1592,8.0
+The Good Karma Hospital,70112,1594,10.0
+The Shadow Line,37602,1597,7.0
+The Shadow Line,37602,1597,7.0

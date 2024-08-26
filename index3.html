@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VistaVibe</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-auth-compat.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>VistaVibe</h1>
+            <nav>
+                <ul>
+                    <li><a href="#movieContainer">Home</a></li>
+                    <div class="dropdown">
+                        <li><a onclick="myFunction()" class="dropbtn" href="#Genre">Genre</a></li>
+                        <div id="myDropdown" class="dropdown-content">
+                          <a href="#g1">Drama</a>
+                          <a href="#g2">Animation</a>
+                          <a href="#g3">Comedy</a>
+                          <a href="#g4">Sci-Fi & Fantasy</a>
+                          <a href="#g5">Action & Adventure</a>
+                          <a href="#g6">Crime</a>
+                          <a href="#g7">Mystery</a>
+                          <a href="#g8">Reality</a>
+                          <a href="#g9">Family</a>
+                          <a href="#g10">News</a>
+                        </div>
+                    </div>  
+                    <li><a href="#favorites">Favorites</a></li>
+                    <li><a href="#profile">Profile</a></li>
+                    <li><a href="index.html">Logout</a></li>
+                </ul>
+            </nav>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Search...">
+            </div>
+            <div class="auth-buttons">
+                <div class="profile" id="userEmail"></div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container" id="movieContainer">
+        <!-- Movie cards will be dynamically added here -->
+    </div>
+    <script>
+        // index3.html
+        document.addEventListener("DOMContentLoaded", function () {
+            // Retrieve the email from local storage
+            var userEmail = localStorage.getItem("userEmail");
+
+            // Display the email on the page
+            if (userEmail) {
+                document.getElementById("userEmail").textContent = userEmail;
+            }
+        });
+
+    </script>
+
+    <script>
+        /* When the user clicks on the button, 
+        toggle between hiding and showing the dropdown content */
+        function myFunction() {
+        document.getElementById("myDropdown").classList.toggle("show");
+        }
+        
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(event) {
+        if (!event.target.matches('.dropbtn')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+            var openDropdown = dropdowns[i];
+            if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+            }
+            }
+        }
+        }
+    </script>
+     
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

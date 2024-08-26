@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-auth-compat.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+    <title>Movie Details</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <div id="movie-details">
+        <img id="posterImg" src="#" alt="Movie Poster">
+        <div id="details">
+            <h1 id="movieName"></h1>
+            <p id="genreLabel">Genre: </p>
+            <p id="genre"></p>
+            <br>
+            <p id="detailsLabel">Overview: </p>
+            <p id="detail"></p><br>
+            <button id="watchTrailerBtn"><b>Watch Trailer</b></button>
+        </div>
+    </div>
+    <div class="rec">Recommended shows</div>
+    <div id="container" class="scrollable-container">
+        <!-- Movies will be dynamically added here -->
+    </div>
+
+    <script src="movie_details.js"></script>
+</body>
+</html>
