@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: url('pp.jpg') no-repeat center center fixed;
+    background-size: cover;
+    /* Default text color */
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* Align items to the start (left) */
+    min-height: 100vh;
+    overflow: hidden;
+    /* Ensure the container takes at least the full viewport height */
+}
+
+#movie-details {
+    display: flex;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 98%;
+    /* Take up the full width */
+    box-sizing: border-box;
+    /* Include padding and border in the total width and height */
+    margin-bottom: 0;
+}
+
+#posterImg {
+    display: block;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 0;
+}
+
+#details {
+    color: #fff;
+    /* Light text color */
+    background-color: rgba(0, 238, 255, 0.9);
+    /* Dark background color */
+    padding: 20px;
+    flex-grow: 1;
+}
+
+h1#movieName {
+    font-size: 36px;
+    /* Adjust the font size as needed */
+    color: #383428;
+    /* A contrasting color for emphasis */
+    margin-bottom: 15px;
+    /* Add some space below the movie name */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    /* Add a subtle text shadow for depth */
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+#genreLabel,
+#detailsLabel {
+    display: inline;
+    /* Set to inline to appear on the same line */
+    margin-right: 5px;
+    /* Add some space between labels and text */
+    font-size: 16px;
+    color: blue;
+    /* A contrasting color for emphasis */
+    letter-spacing: 1px;
+    /* Add a bit of letter spacing */
+}
+
+#genre,
+#detail {
+    display: inline;
+    /* Set to inline to appear on the same line */
+    margin-top: 10px;
+    font-size: 18px;
+    color: black;
+    /* Light text color */
+    /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); */
+    /* Add a subtle text shadow for depth */
+}
+
+.scrollable-container {
+    display: flex;
+    overflow-x: auto; /* Allow horizontal scrolling */
+    scrollbar-width:auto; /* Specify the width of the scrollbar */
+    scrollbar-color: #333 #222; /* Specify the color of the scrollbar */
+    /* max-width: 100%;  */
+    max-width: calc(100% - 40px); /* Adjusted for left and right margins */
+    margin: 10px 20px; /* Adjusted for top and bottom margins */
+}
+
+
+.scrollable-content{
+    display: flex;
+    position: absolute;
+    overflow-x: scroll;
+    transition: transform 0.3s ease;
+    margin-right: 20px;;
+}
+
+#container {
+    display: flex;
+    margin: 10px 20px 10px 20px;
+}
+
+.scrollable-container > div {
+    flex: 0 0 auto;
+    width: 200px; /* Width of each movie box */
+    margin-right: 10px;
+    scroll-snap-align: start;
+}
+
+.scrollable-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.scrollable-container img:hover {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.scrollable-container p {
+    text-align: center;
+    margin-top: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    color: white;
+    text-overflow: ellipsis;
+}
+
+/* Set a minimum height to prevent content overlap */
+.scrollable-container {
+    min-height: 250px; /* Adjust the minimum height as needed */
+}
+
+.rec {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    background-color: wheat;
+    padding: 10px;
+    padding-bottom: 2px;
+    border-radius: 9px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+#watchTrailerBtn {
+    background-color: #ffcc00; /* Background color for the button */
+    color: #333; /* Text color for the button */
+    padding: 10px 15px; /* Padding for the button */
+    font-size: 16px; /* Font size for the button text */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Border radius for rounded corners */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    margin-top: 10px; /* Adjust top margin as needed */
+}
+
+#watchTrailerBtn:hover {
+    background-color: #ffa500; /* Change background color on hover */
+}
+
